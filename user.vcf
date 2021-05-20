@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:James;Hardy;;;
+FN: James Hardy 
+ORG:3B Design & Print;
+TITLE:Managing Director
+EMAIL;type=INTERNET;type=WORK;type=pref:james@3bdap.co.uk
+TEL;type=WORK;type=VOICE:+44 1354 653826
+item1.ADR;type=WORK;type=pref:;;Unit 1 Arthur Park\, Thorby Avenue\, March\, PE15 0AZ
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:3bdap.co.uk
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
