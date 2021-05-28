@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Herbert;Luke;;;
-FN: Luke Herbert 
+N:Denton;Megan;;;
+FN: Megan Denton
 ORG:3B Design & Print;
-TITLE:Production Specialist
-EMAIL;type=INTERNET;type=WORK;type=pref:luke@3bdap.co.uk
+TITLE:Graphic Designer
+EMAIL;type=INTERNET;type=WORK;type=pref:megan@3bdap.co.uk
 TEL;type=WORK;type=VOICE:+44 1354 653826
 item1.ADR;type=WORK;type=pref:;;Unit 1 Arthur Park\, Thorby Avenue\, March\, PE15 0AZ
 item1.X-ABADR:sg
