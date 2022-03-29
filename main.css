@@ -42,7 +42,7 @@ img.profile-pic {
 .container {
 	margin: 0 auto;
 	position: relative;
-	height: auto;
+	height: 100%;
 }
 
 .containerbuttons {
@@ -58,8 +58,8 @@ img.profile-pic {
 	flex-wrap: nowrap;
 	flex-direction: row;
 	position: relative;
-	height: auto;
-	width: auto;
+	height: 100%;
+	width: 100%;
 }
 
 .rowbuttons {
