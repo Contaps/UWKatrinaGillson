@@ -62,6 +62,18 @@ img.profile-pic {
 	width: 100%;
 }
 
+.rowbuttons {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	flex-direction: row;
+	position: relative;
+	height: 300%;
+	width: 100%;
+}
+
+
 .col {
 	display: block;
 	flex-basis: 0;
