@@ -45,6 +45,12 @@ img.profile-pic {
 	height: 100%;
 }
 
+.containerbuttons {
+	margin: 0 auto;
+	position: relative;
+	height: 300%;
+}
+
 .row {
 	display: flex;
 	justify-content: center;
